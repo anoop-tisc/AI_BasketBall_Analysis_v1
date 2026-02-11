@@ -1,0 +1,7 @@
+.env
+*.pt
+stubs/
+Basketball-Players-17/*
+reloc2-1/*
+*.log
+runs/*
